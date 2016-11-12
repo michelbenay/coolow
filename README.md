@@ -1,1 +1,3 @@
 # coolow
+
+lecture start guide
